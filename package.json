@@ -1,0 +1,19 @@
+{
+  "name": "coding_challenges",
+  "version": "1.0.0",
+  "description": "In this repository I will be posting my solutions to coding challenges I get from the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oobertas/coding_challenges.git"
+  },
+  "author": "Olha Obertas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oobertas/coding_challenges/issues"
+  },
+  "homepage": "https://github.com/oobertas/coding_challenges#readme"
+}
